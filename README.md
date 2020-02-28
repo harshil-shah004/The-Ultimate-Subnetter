@@ -5,12 +5,12 @@ The Subnet-Tool is a CLI to help network engineers and system administrators spe
 ## Install
 
 ```
-$ pip install -r requirements
+$ pip3 install -r requirements
 ```
 
 ## Usage
 ```
-$ python subnetting.py --help
+$ python3 subnetting.py --help
 Usage: subnetting.py [options]
 
 Options:
